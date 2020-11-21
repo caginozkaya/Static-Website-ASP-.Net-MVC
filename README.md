@@ -5,4 +5,4 @@ In this project, I demonstrate how to use a ready to use bootsrap template calle
 
 # Homepage
 
-![alt text](https://github.com/caginozkaya/Static-Website-ASP-.Net-MVC/Homepage.jpg)
+![alt text](https://github.com/caginozkaya/Static-Website-ASP-.Net-MVC/blob/main/Homepage.jpg?raw=true)
